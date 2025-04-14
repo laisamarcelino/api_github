@@ -16,7 +16,7 @@ Os dados são obtidos diretamente da [API pública do GitHub](https://api.github
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/github-finder.git
+git clone https://github.com/laisamarcelino/api_github.git
 
 # Acesse o diretório
 cd github-finder
